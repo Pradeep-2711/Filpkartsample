@@ -11,6 +11,10 @@ public class sample {
 	private void userid() {
 System.out.println("user id is 123");
 	}
+	
+	private void sysout() {
+		System.out.println("new branch3");
+	}
 public static void main(String[] args) {
 	sample s = new sample();
 	s.username();
